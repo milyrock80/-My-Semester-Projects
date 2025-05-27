@@ -9,4 +9,11 @@
 - learn the conditins nessecary to grow certain plants
 - find a plant based on the type of plant wanted
 
-- 
+
+### Project 2: Sci-fi movie recs
+**Summary**: This program gives users a random movie recommendation
+**Key Features**: 
+- Features my 5/5 rated movies
+- gives a very in depth review
+- includes a photo of the cover of the film
+
